@@ -4,7 +4,7 @@
 from __future__ import division
 
 __all__ = ["Composite compact Quiescent Galaxies"]
-__version__ = "1.0.0"
+__version__ = "2.0.0"
 __author__ = "Mikkel Stockmann (mikkelstockmann@gmail.com)"
 __copyright__ = "Copyright 2018 Mikkel Stockmann"
 
